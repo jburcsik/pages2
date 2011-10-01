@@ -1,0 +1,46 @@
+MOST IMPORTANT THINGS
+----------------------------------
+- Create Local sub menus for each 'template' to browse site
+- Create advanced template so it actually looks decent
+- Flush out the templating data model(locations, use of resources, naming conventions)
+- Create a GUi to run triggers to create content
+- Create ways to selectively update specific parts of the content
+
+
+THINGS THAT SHOULD PROLLY BE DONE
+----------------------------------
+- Test caching
+- Find out why Ottawa does not show up in any of my lists dammit
+- Atach Images to content table in Database
+
+THINGS THAT WOULD BE NICE
+----------------------------------
+- A back end to insert new content
+- make sure someone can't break my shit with some cross site scripting
+
+
+FOLDER STRUCTURE:
+-------------------
+/Root
+	/_app
+		/scripts
+		/lib
+		/templates
+			/exampletemplate
+				/css
+				/js
+				/img
+	/site
+		/index.php
+		/country1
+			/state1
+			/state2
+				/city1
+					index.html
+					contact.html
+					product1.html
+					product2.html
+		/country2
+	/admin
+		/cpanel.php
+		/backup?

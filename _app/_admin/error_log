@@ -1,0 +1,36 @@
+[10-Aug-2011 10:54:23] PHP Fatal error:  Call to undefined function  scriptlinks() in /home1/actafooc/public_html/pages/_app/admin/index.php on line 15
+[10-Aug-2011 10:54:30] PHP Fatal error:  Call to undefined function  scriptlinks() in /home1/actafooc/public_html/pages/_app/admin/index.php on line 15
+[23-Aug-2011 19:49:13] PHP Parse error:  syntax error, unexpected '<' in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 13
+[23-Aug-2011 19:49:36] PHP Parse error:  syntax error, unexpected $end in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 53
+[23-Aug-2011 19:50:31] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:50:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:17] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:17] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:18] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:23] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:23] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:24] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:25] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:51:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 11
+[23-Aug-2011 19:52:46] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 12
+[23-Aug-2011 19:52:46] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 12
+[23-Aug-2011 19:54:54] PHP Warning:  require_once(/home1/actafooc/public_html/pages/conn.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 12
+[23-Aug-2011 19:54:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home1/actafooc/public_html/pages/conn.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 12
+[23-Aug-2011 20:01:29] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 22
+[23-Aug-2011 20:05:20] PHP Parse error:  syntax error, unexpected '.' in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 20:05:21] PHP Parse error:  syntax error, unexpected '.' in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 20:05:22] PHP Parse error:  syntax error, unexpected '.' in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 20:06:31] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 20:06:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 20:09:23] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 20:13:58] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 20:14:43] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 20:14:54] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 20:15:37] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 30
+[23-Aug-2011 21:04:22] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 27
+[23-Aug-2011 21:05:43] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 27
+[23-Aug-2011 21:06:46] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 29
+[23-Aug-2011 21:08:08] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 29
+[23-Aug-2011 21:43:42] PHP Fatal error:  Cannot use [] for reading in /home1/actafooc/public_html/pages/_app/_admin/index.php on line 25

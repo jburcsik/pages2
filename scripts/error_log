@@ -1,0 +1,594 @@
+[20-Jul-2011 13:13:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 13:14:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 13:21:42] PHP Warning:  fopen(Ontario/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/makepages.php on line 21
+[20-Jul-2011 13:23:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/makepages.php on line 21
+[20-Jul-2011 13:24:39] PHP Warning:  fopen(/public_html/pages/Ontario/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/makepages.php on line 21
+[20-Jul-2011 13:25:18] PHP Warning:  fopen(/public_html/pages/Ontario/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/makepages.php on line 21
+[20-Jul-2011 14:10:36] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 14:33:44] PHP Warning:  fopen(../Ontario\/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/makepages.php on line 21
+[20-Jul-2011 15:03:45] PHP Warning:  fopen(../Ontario/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/makepages.php on line 23
+[20-Jul-2011 15:04:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:05:24] PHP Warning:  fopen(../Ontario/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /home1/actafooc/public_html/pages/scripts/makepages.php on line 23
+[20-Jul-2011 15:08:03] PHP Warning:  Wrong parameter count for chmod() in /home1/actafooc/public_html/pages/scripts/makedir.php on line 22
+[20-Jul-2011 15:08:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:08:03] PHP Warning:  Wrong parameter count for chmod() in /home1/actafooc/public_html/pages/scripts/makedir.php on line 22
+[20-Jul-2011 15:08:03] PHP Warning:  Wrong parameter count for chmod() in /home1/actafooc/public_html/pages/scripts/makedir.php on line 22
+[20-Jul-2011 15:08:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:08:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:08:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:08:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:08:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:08:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:09:25] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:09:25] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:09:25] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 21
+[20-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/scripts/makedir.php on line 21
+[20-Jul-2011 15:18:25] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home1/actafooc/public_html/pages/scripts/index.php on line 2
+[20-Jul-2011 15:22:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:22:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 21
+[20-Jul-2011 15:22:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:22:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 21
+[20-Jul-2011 15:22:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/scripts/makedir.php on line 21
+[20-Jul-2011 15:22:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:22:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 21
+[20-Jul-2011 15:22:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:22:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 21
+[20-Jul-2011 15:22:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:24:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:24:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 21
+[20-Jul-2011 15:24:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:24:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 21
+[20-Jul-2011 15:29:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 15:29:31] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/actafooc/public_html/pages/scripts/makepages.php on line 21
+[20-Jul-2011 22:11:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/makedir.php on line 20
+[20-Jul-2011 22:53:42] PHP Parse error:  syntax error, unexpected '}' in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[20-Jul-2011 22:53:56] PHP Fatal error:  Call to undefined function  string() in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 36
+[22-Jul-2011 11:57:56] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 33
+[22-Jul-2011 12:23:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:23:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:23:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:23:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:23:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:25:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:25:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:25:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:25:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:25:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:26:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:26:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:26:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:26:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:26:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:26:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:27:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:27:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:27:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:27:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:27:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:27:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:27:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:27:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:29:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:29:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:29:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:29:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:29:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 12:29:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 50
+[22-Jul-2011 12:30:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 12:30:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 12:56:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 13:14:55] PHP Warning:  fopen(../Ontario/Toronto/index.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/makepages.php on line 27
+[22-Jul-2011 13:14:57] PHP Warning:  fopen(../Ontario/Toronto/index.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/makepages.php on line 27
+[22-Jul-2011 13:15:21] PHP Warning:  fopen(../Ontario/Toronto/index.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/makepages.php on line 27
+[22-Jul-2011 13:15:28] PHP Warning:  fopen(../Ontario/Toronto/index.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/makepages.php on line 27
+[22-Jul-2011 13:19:49] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 22
+[22-Jul-2011 13:19:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 47
+[22-Jul-2011 13:21:20] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 23
+[22-Jul-2011 13:21:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:21:22] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 23
+[22-Jul-2011 13:21:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:21:23] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 23
+[22-Jul-2011 13:21:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:26:11] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 23
+[22-Jul-2011 13:26:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:26:13] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 23
+[22-Jul-2011 13:26:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:26:14] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 23
+[22-Jul-2011 13:26:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:44:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:46:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:46:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:46:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:48:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:48:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:48:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:48:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:49:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:49:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:50:43] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 23
+[22-Jul-2011 13:50:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:51:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:51:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:51:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:51:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 48
+[22-Jul-2011 13:57:45] PHP Fatal error:  Call to undefined function  musql_query() in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 32
+[22-Jul-2011 14:02:30] PHP Parse error:  syntax error, unexpected $end in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 8
+[22-Jul-2011 14:07:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 36
+[22-Jul-2011 14:07:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 36
+[22-Jul-2011 14:07:36] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 38
+[22-Jul-2011 14:07:37] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 38
+[22-Jul-2011 14:07:46] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 38
+[22-Jul-2011 14:07:48] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 38
+[22-Jul-2011 14:07:49] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 38
+[22-Jul-2011 14:07:56] PHP Warning:  rand() expects parameter 2 to be long, array given in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 37
+[22-Jul-2011 14:15:25] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 44
+[22-Jul-2011 14:17:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/makecontent.php on line 62
+[22-Jul-2011 15:00:59] PHP Parse error:  syntax error, unexpected ':' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 102
+[22-Jul-2011 15:02:01] PHP Parse error:  syntax error, unexpected ':' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 102
+[22-Jul-2011 15:02:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:03:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:03:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:03:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:03:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:03:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:03:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:04:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:04:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:04:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:04:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:04:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:04:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:05:13] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:05:13] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:05:13] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:05:13] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:05:13] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:05:13] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:05:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:05:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:05:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:05:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:05:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:05:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:07:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:07:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:07:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:07:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:07:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:07:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:07:56] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:07:56] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:07:56] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:07:56] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:07:56] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:07:56] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:02] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:02] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:02] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:02] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:02] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:02] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:20] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:20] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:20] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:20] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:20] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:20] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:25] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:25] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:25] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:25] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:25] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:25] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:09:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:09:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:21] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:24] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:34] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:34] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:34] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:34] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:34] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:34] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:34] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:34] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:41] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:50] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:50] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:50] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:50] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:50] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:50] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:10:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 48
+[22-Jul-2011 15:10:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 15:13:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:44] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:13:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 15:13:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 52
+[22-Jul-2011 15:23:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:50] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:50] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:50] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:53] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:23:53] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 58
+[22-Jul-2011 15:24:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 15:24:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 15:24:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 15:24:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 15:24:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 15:24:33] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 15:24:35] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 15:24:35] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 15:24:35] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 15:28:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 56
+[22-Jul-2011 16:05:40] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting T_STRING or T_VARIABLE or '$' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 29
+[22-Jul-2011 16:10:28] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[22-Jul-2011 16:10:30] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[22-Jul-2011 16:11:10] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 122
+[22-Jul-2011 16:11:41] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 122
+[22-Jul-2011 16:11:42] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 122
+[22-Jul-2011 16:12:09] PHP Parse error:  syntax error, unexpected $end in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 128
+[22-Jul-2011 16:18:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[22-Jul-2011 16:19:39] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 16:19:40] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 16:19:56] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 16:19:58] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 16:20:00] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 16:20:00] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 16:20:01] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 16:31:09] PHP Parse error:  syntax error, unexpected $end in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 49
+[22-Jul-2011 17:15:00] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 128
+[22-Jul-2011 17:40:15] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 51
+[22-Jul-2011 17:40:32] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[22-Jul-2011 17:40:56] PHP Parse error:  syntax error, unexpected '{' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[22-Jul-2011 17:45:07] PHP Parse error:  syntax error, unexpected '{' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[22-Jul-2011 17:45:09] PHP Parse error:  syntax error, unexpected ';' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 164
+[22-Jul-2011 17:45:10] PHP Parse error:  syntax error, unexpected ';' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 164
+[22-Jul-2011 17:45:27] PHP Parse error:  syntax error, unexpected T_PRINT, expecting ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 167
+[22-Jul-2011 17:46:53] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[22-Jul-2011 17:49:03] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[22-Jul-2011 17:49:27] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 150
+[22-Jul-2011 17:49:29] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 150
+[22-Jul-2011 17:49:31] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 150
+[22-Jul-2011 18:07:24] PHP Parse error:  syntax error, unexpected T_PRINT in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 161
+[22-Jul-2011 18:07:32] PHP Parse error:  syntax error, unexpected T_PRINT in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 161
+[22-Jul-2011 19:02:11] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 88
+[22-Jul-2011 19:26:02] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 19:26:05] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 19:26:07] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 19:26:09] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 19:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 19:26:15] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 19:26:17] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 19:26:19] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 19:26:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 19:26:23] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 78
+[22-Jul-2011 20:42:45] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 105
+[22-Jul-2011 20:42:51] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 133
+[26-Jul-2011 15:06:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:06:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:06:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:07:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:07:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:07:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:07:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:07:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:07:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:07:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:07:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:07:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:08:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:08:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:08:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:08:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:08:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:08:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:08:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:08:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:08:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:09:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:09:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[26-Jul-2011 15:09:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 77
+[27-Jul-2011 20:26:27] PHP Parse error:  syntax error, unexpected '<' in /home1/actafooc/public_html/pages/scripts/outputtests.php on line 2
+[27-Jul-2011 20:26:35] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputtests.php on line 40
+[27-Jul-2011 20:34:43] PHP Parse error:  syntax error, unexpected '}' in /home1/actafooc/public_html/pages/scripts/outputtests.php on line 39
+[27-Jul-2011 20:42:00] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home1/actafooc/public_html/pages/scripts/outputtests.php on line 52
+[27-Jul-2011 21:01:05] PHP Parse error:  syntax error, unexpected '.' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 175
+[27-Jul-2011 21:01:25] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 182
+[27-Jul-2011 21:01:27] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 182
+[27-Jul-2011 21:01:54] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 182
+[27-Jul-2011 21:01:54] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 182
+[27-Jul-2011 21:02:52] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 190
+[27-Jul-2011 21:22:38] PHP Parse error:  syntax error, unexpected '/' in /home1/actafooc/public_html/pages/scripts/outputtests.php on line 56
+[27-Jul-2011 21:22:56] PHP Parse error:  syntax error, unexpected '/' in /home1/actafooc/public_html/pages/scripts/outputtests.php on line 56
+[27-Jul-2011 21:22:57] PHP Parse error:  syntax error, unexpected '/' in /home1/actafooc/public_html/pages/scripts/outputtests.php on line 56
+[27-Jul-2011 21:25:04] PHP Fatal error:  Call to undefined function  php_include() in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 167
+[27-Jul-2011 21:25:46] PHP Warning:  include(../library/alldropdown.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 167
+[27-Jul-2011 21:25:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../library/alldropdown.html' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 167
+[27-Jul-2011 22:00:28] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 161
+[27-Jul-2011 22:01:24] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[27-Jul-2011 22:01:29] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[27-Jul-2011 22:01:31] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[27-Jul-2011 22:02:31] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[27-Jul-2011 22:02:33] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[27-Jul-2011 22:03:42] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 159
+[27-Jul-2011 22:03:43] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 159
+[27-Jul-2011 22:04:02] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 159
+[27-Jul-2011 22:04:11] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 159
+[27-Jul-2011 22:04:36] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:04:37] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:07:44] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:07:46] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:07:46] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:07:46] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:07:47] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:07:56] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:09:35] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:09:45] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:09:52] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:09:55] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:09:55] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:12:48] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:13:20] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:13:53] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 160
+[27-Jul-2011 22:13:54] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 160
+[27-Jul-2011 22:18:57] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:19:07] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 159
+[27-Jul-2011 22:20:37] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 158
+[27-Jul-2011 22:20:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[27-Jul-2011 22:21:25] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 159
+[27-Jul-2011 22:21:55] PHP Parse error:  syntax error, unexpected T_STRING in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 159
+[27-Jul-2011 22:22:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 162
+[27-Jul-2011 22:36:01] PHP Warning:  include(../library/allcitydropdown.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 178
+[27-Jul-2011 22:36:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../library/allcitydropdown.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 178
+[10-Aug-2011 16:09:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/actafooc/public_html/pages/scripts/scriptstamp.php on line 39
+[23-Aug-2011 18:22:17] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/conn.php on line 10
+[23-Aug-2011 18:22:18] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/conn.php on line 10
+[23-Aug-2011 18:22:30] PHP Parse error:  syntax error, unexpected ')' in /home1/actafooc/public_html/pages/scripts/conn.php on line 10
+[23-Aug-2011 18:50:08] PHP Warning:  fopen(../ontario/toronto/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 105
+[23-Aug-2011 18:50:12] PHP Warning:  fopen(../ontario/toronto/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 105
+[23-Aug-2011 18:50:42] PHP Warning:  fopen(../ontario/toronto/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 105
+[23-Aug-2011 18:50:52] PHP Warning:  fopen(../ontario/toronto/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 105
+[23-Aug-2011 19:01:56] PHP Warning:  fopen(http://actafoo.com/pages/ontario/toronto/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: HTTP wrapper does not support writeable connections in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 107
+[23-Aug-2011 19:06:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 28
+[23-Aug-2011 19:06:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 35
+[23-Aug-2011 19:06:32] PHP Warning:  fopen(/pages/ontario/toronto/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 107
+[23-Aug-2011 19:07:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 28
+[23-Aug-2011 19:07:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 35
+[23-Aug-2011 19:07:28] PHP Warning:  fopen(/pages/ontario/toronto/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 107
+[23-Aug-2011 19:09:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 28
+[23-Aug-2011 19:09:40] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 35
+[23-Aug-2011 19:09:40] PHP Warning:  fopen(/pages/ontario/toronto/index.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/scripts/outputsite.php on line 107

@@ -1,0 +1,4 @@
+<?
+echo('Hello Pages <br /> Commands available : <br />
+<code>(NULL)</code>');
+?>

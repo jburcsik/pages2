@@ -1,0 +1,60 @@
+[19-Jul-2011 14:11:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'actafooc'@'localhost' (using password: YES) in /home1/actafooc/public_html/pages/index.php on line 7
+[19-Jul-2011 14:11:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'actafooc'@'localhost' (using password: YES) in /home1/actafooc/public_html/pages/index.php on line 7
+[19-Jul-2011 14:30:51] PHP Parse error:  syntax error, unexpected '`' in /home1/actafooc/public_html/pages/index.php on line 12
+[19-Jul-2011 14:32:23] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/actafooc/public_html/pages/index.php on line 12
+[19-Jul-2011 14:32:24] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/actafooc/public_html/pages/index.php on line 12
+[19-Jul-2011 14:32:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/actafooc/public_html/pages/index.php on line 12
+[19-Jul-2011 14:34:22] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/actafooc/public_html/pages/index.php on line 12
+[19-Jul-2011 14:34:24] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/actafooc/public_html/pages/index.php on line 12
+[20-Jul-2011 10:51:41] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/index.php on line 24
+[20-Jul-2011 10:52:29] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/index.php on line 24
+[20-Jul-2011 10:52:30] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/actafooc/public_html/pages/index.php on line 24
+[20-Jul-2011 10:53:02] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/actafooc/public_html/pages/index.php on line 24
+[20-Jul-2011 10:53:08] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/index.php on line 24
+[20-Jul-2011 11:39:19] PHP Fatal error:  Cannot use string offset as an array in /home1/actafooc/public_html/pages/index.php on line 20
+[20-Jul-2011 12:27:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:29:42] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 37
+[20-Jul-2011 12:31:02] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 37
+[20-Jul-2011 12:32:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:32:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:32:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:34:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:34:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:34:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:35:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:35:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:35:37] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:36:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:36:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:36:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:41:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:41:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:41:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:14] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:42:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 12:57:53] PHP Warning:  fopen(Ontario/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 35
+[20-Jul-2011 13:03:31] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 51
+[20-Jul-2011 13:30:27] PHP Warning:  fopen(Ontario\/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:31:45] PHP Warning:  fopen(Ontario\/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:32:04] PHP Warning:  fopen(Ontario\/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:32:23] PHP Warning:  fopen(Ontario\/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:32:26] PHP Warning:  fopen(Ontario\/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:32:28] PHP Warning:  fopen(Ontario\/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:32:31] PHP Warning:  fopen(Ontario\/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:32:33] PHP Warning:  fopen(Ontario\/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:33:19] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:33:27] PHP Warning:  fopen(/Ontario/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 13:34:39] PHP Warning:  fopen(/Ontario/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/index.php on line 38
+[20-Jul-2011 14:55:46] PHP Warning:  fopen(/Ontario/Toronto.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/actafooc/public_html/pages/makepages.php on line 23
+[20-Jul-2011 15:17:06] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home1/actafooc/public_html/pages/index.php on line 2
+[20-Jul-2011 15:17:41] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home1/actafooc/public_html/pages/index.php on line 2

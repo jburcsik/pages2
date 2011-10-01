@@ -1,0 +1,48 @@
+/* CSS Document 
+*
+* CSS Styles
+*
+* Author: Jesse Burcsik
+* Date: 14/11/20009
+*
+*
+*/
+
+/*** GLOBAL STYLES ***/
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	/* Font sizing */
+	font-size: small;
+	color: #000;
+	zoom: 1;
+}
+
+.left{
+	float:		left;
+}
+
+
+.right{
+	float:		right;
+}
+
+ar-in-en{
+	font-size: 	120%;
+}
+
+en-in-ar{
+	font-size: 	80%;
+}
+
+
+.clear {
+	clear: both;
+	font-size: 0px;
+	line-height: 0px;
+	visibility: hidden;
+	margin: 0;
+}
+
+
+/*** ***/

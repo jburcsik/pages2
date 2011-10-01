@@ -1,0 +1,53 @@
+/* CSS Document 
+*
+* CSS TYPOGRAPHY
+*
+* Author: Jesse Burcsik
+* Date: 14/11/20009
+*
+*
+*/
+
+
+h1 {
+	font-size: xx-large;
+}
+
+
+
+h2 {
+	font-size: x-large;
+}
+
+
+
+h3 {
+	font-size: large;
+}
+
+
+
+h4 {
+	font-size: medium;
+}
+
+
+
+p {
+	display: block;
+	line-height: 1.35em;
+}
+
+
+
+p a {
+	text-decoration: none;
+	color:#0000FF;
+	border: none;
+}
+
+
+
+p a:hover {
+	color:#FF0000;
+}
