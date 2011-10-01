@@ -1,4 +1,7 @@
 <?
+
+// EDIT FOR GIT TO SEE
+
 $dbhost = 'localhost';
 $dbuser = 'root';
 $dbpasswd = 'root';
